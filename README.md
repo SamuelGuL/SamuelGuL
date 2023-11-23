@@ -1,4 +1,4 @@
-### Hi there 👋
+[### Hi there 👋
 
 <!--
 **SamuelGuL/SamuelGuL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+](https://static.wikia.nocookie.net/ben10/images/e/ea/BDC_10k.png/revision/latest/scale-to-width-down/250?cb=20170715224648&path-prefix=pt)https://static.wikia.nocookie.net/ben10/images/e/ea/BDC_10k.png/revision/latest/scale-to-width-down/250?cb=20170715224648&path-prefix=pt
